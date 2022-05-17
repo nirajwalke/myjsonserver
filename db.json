@@ -36,7 +36,6 @@
       "role": "Admin",
       "password": "niraj"
     }],
-  {
   "taskusers": [
     {
       "id": 1,
@@ -183,6 +182,4 @@
       "age": 70
     }
   ]
-}
-
 }
