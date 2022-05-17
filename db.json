@@ -1,16 +1,39 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "name": "Sebastian Joe",
+      "password": "niraj",
+      "email": "sebastian@codingthesmartway.com",
+      "address": "Nagpur",
+      "phoneNo": "7878787878",
+      "role": "Admin"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+      "id": 2,
+      "name": "Niraj Walke",
+      "email": "niraj@gmail.com",
+      "phoneNo": "7878787878",
+      "address": "Nagpur",
+      "role": "Guest",
+      "password": "niraj"
+    },
+    {
+      "id": 3,
+      "name": "Sebastian",
+      "email": "sebastian@codingthesmartway.com",
+      "phoneNo": "7878787878",
+      "address": "Nagpur",
+      "role": "Admin",
+      "password": "niraj"
+    },
+    {
+      "id": 4,
+      "name": "Sebastian",
+      "email": "sebastian@codingthesmartway.com",
+      "phoneNo": "7878787878",
+      "address": "Nagpur",
+      "role": "Admin",
+      "password": "niraj"
+    }]
 }
